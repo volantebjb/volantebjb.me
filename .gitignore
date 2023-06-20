@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # Others
-scripts/
+scripts/git.sh
