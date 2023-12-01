@@ -1,6 +1,6 @@
 Proprietary Evaluation License
 
-This software is provided solely for evaluation purposes and is strictly prohibited 
+This project is provided solely for evaluation purposes and is strictly prohibited 
 from being copied, distributed, or utilized for any purpose beyond assessing the 
 skills and capabilities of the developer. Access to this code implies an agreement 
 not to disclose, reproduce, or apply it for any other purpose without explicit 
@@ -8,12 +8,11 @@ written consent from the developer.
 
 1. Evaluation Purposes Only
 
-It is acknowledged that this software is intended for evaluation purposes 
-exclusively. Its usage is limited to assessing the developer's proficiency, and 
-any unauthorized distribution or application for alternative purposes is strictly 
-forbidden.
+It is acknowledged that this project is intended for evaluation purposes exclusively. 
+Its usage is limited to assessing the developer's proficiency, and any unauthorized 
+distribution or application for alternative purposes is strictly forbidden.
 
-2. Proprietary Nature of Code
+2. Proprietary Nature of Source Code
 
 The content within this repository consists of placeholder code designed solely for 
 public demonstration. The actual source code and its contents remain proprietary to 
@@ -22,20 +21,21 @@ authorized individuals explicitly for the purpose of evaluation.
 
 3. Authorization
 
-Authorization is exclusively granted to friends, potential employers, or clients of 
-the developer. Any unauthorized access or use of the actual source code is a breach 
-of this license agreement.
+Authorization is exclusively granted to authorized individuals, potential employers, 
+or clients of the developer. Any unauthorized access or use of the actual source code 
+is a breach of this license agreement.
 
 4. Restrictions on Disclosure and Reproduction
 
 By accessing this repository, a commitment is made to refraining from disclosing, 
-reproducing, or applying the actual code for any purpose beyond the intended 
+reproducing, or applying the actual source code for any purpose beyond the intended 
 evaluation of the developer's skills and capabilities. The placeholder code provided 
 is designated for public demonstration exclusively.
 
 5. Contact Information
 
-For inquiries related to the use of this code for purposes other than evaluation, or 
-if seeking access to the actual source code, please contact work@volantebjb.me.
+For inquiries related to the use of this source code for purposes other than 
+evaluation, or if seeking access to the actual source code, please contact
+work@volantebjb.me.
 
 Copyright (c) 2023 Barron Joshua Volante
