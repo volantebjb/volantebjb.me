@@ -15,11 +15,16 @@ Welcome to my personal website project! This repository contains the source code
 
 To run this project locally, simply clone the repository and open the `index.html` file in your web browser. For deployment, the project is configured for AWS, and changes can be made in the respective AWS services and infrastructure files.
 
-## Features
+## Key Features
 
-- Responsive design for a seamless user experience on various devices.
-- Visitor count system powered by AWS DynamoDB and Lambda function.
-- Automated CI/CD pipeline using GitHub Actions and Terraform for infrastructure changes.
+- **Responsive Static Website:**
+  Developed a responsive static website hosted on Amazon S3 buckets with CloudFront distributions. Configured Route 53 with an ACM certificate for secure traffic routing.
+
+- **Visitor Count System:**
+  Implemented a visitor count system using DynamoDB as a key-value store. A Lambda function, triggered by an API Gateway endpoint, increments visitor counts for analytical purposes.
+
+- **Automated CI/CD Workflow:**
+  Established an automated CI/CD pipeline using Git and GitHub Actions. Integrated Terraform into the workflow to facilitate automatic deployment of infrastructure changes. Ensured secure management of AWS credentials through GitHub OIDC for reliable and consistent deployments.
 
 ## License
 
