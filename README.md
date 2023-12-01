@@ -7,7 +7,7 @@ Welcome to my personal website project! This repository contains the source code
 - **Frontend:** HTML, CSS, JavaScript
 - **Hosting:** AWS S3, CloudFront, Route 53, ACM
 - **Backend:** AWS Lambda, DynamoDB, API Gateway
-- - **Access Control:** AWS IAM, GitHub OIDC
+- **Access Control:** AWS IAM, GitHub OIDC
 - **Infrastructure as Code:** Terraform
 - **CI/CD:** GitHub Actions
 
